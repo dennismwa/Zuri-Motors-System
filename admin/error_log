@@ -1,0 +1,7 @@
+[08-Mar-2026 20:40:02 UTC] PHP Warning:  Undefined array key "user_id" in /home/vxjtgclw/motors.zuri.co.ke/admin/car-edit.php on line 12
+[08-Mar-2026 20:54:32 UTC] PHP Warning:  Undefined array key "user_id" in /home/vxjtgclw/motors.zuri.co.ke/admin/car-edit.php on line 12
+[08-Mar-2026 20:54:55 UTC] PHP Warning:  Undefined array key "user_id" in /home/vxjtgclw/motors.zuri.co.ke/admin/car-edit.php on line 12
+[08-Mar-2026 22:30:23 UTC] PHP Warning:  Undefined variable $currentUser in /home/vxjtgclw/motors.zuri.co.ke/admin/chat.php on line 14
+[08-Mar-2026 22:30:23 UTC] PHP Warning:  Trying to access array offset on null in /home/vxjtgclw/motors.zuri.co.ke/admin/chat.php on line 14
+[08-Mar-2026 22:30:23 UTC] PHP Warning:  Undefined variable $currentUser in /home/vxjtgclw/motors.zuri.co.ke/admin/chat.php on line 14
+[08-Mar-2026 22:30:23 UTC] PHP Warning:  Trying to access array offset on null in /home/vxjtgclw/motors.zuri.co.ke/admin/chat.php on line 14
